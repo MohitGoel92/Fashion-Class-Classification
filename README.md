@@ -4,6 +4,26 @@ The global fashion industry is valued at $3 trillion and accounts for 2% of the 
 
 **Task:** We have been hired by a fashion retailer who uses Machines Learning techniques to analyse the types of clothing invdividuals wear in their instagram pictures. This data is then used to recommend the best outifts and clothing to purchase (targetted marketing) that are inline with fashion trends. 
 
+The fashion dataset consists of 70,000 images divided into 60,000 training and 10,000 test samples. The dataset consists of 28x28 grayscale images, associated with a label from 10 classes.
+
+The 10 target classes are as follows:
+
+- T-shirt/top
+- Trouser
+- Pullover
+- Dress
+- Coat
+- Sandal
+- Shirt
+- Sneaker
+- Bag
+- Ankle boot
+
+Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning lighter. This pixel-value is an integer between 0 and 255
+
+
+
+
 **Amazon Echo Look:** https://www.youtube.com/watch?v=9X_fP4pPWPw
 
 **Additional Resource:** https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
