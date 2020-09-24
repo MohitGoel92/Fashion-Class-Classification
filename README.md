@@ -21,7 +21,11 @@ The 10 target classes are as follows:
 
 Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning lighter. This pixel-value is an integer between 0 and 255
 
+# Convolution Neural Networks
 
+## What is an image? 
+
+- Images are stored within the computer as numbers only. 
 
 
 **Amazon Echo Look:** https://www.youtube.com/watch?v=9X_fP4pPWPw
