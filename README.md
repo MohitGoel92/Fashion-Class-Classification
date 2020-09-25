@@ -6,7 +6,7 @@ The global fashion industry is valued at $3 trillion and accounts for 2% of the 
 
 **Task:** We have been hired by a fashion retailer who uses Machines Learning techniques to analyse the types of clothing invdividuals wear in their instagram pictures. This data is then used to recommend the best outifts and clothing to purchase (targetted marketing) that are inline with fashion trends. 
 
-The fashion dataset consists of 70,000 images divided into 60,000 training and 10,000 test samples. The dataset consists of 28x28 grayscale images, associated with a label from 10 classes.
+The fashion dataset consists of 70,000 images divided into 60,000 training and 10,000 test samples. The dataset consists of 28x28 grayscale images, each image being represented by a row with 748 columns associated with a label from 10 classes.
 
 The 10 target classes are as follows:
 
@@ -32,11 +32,17 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 - All numbers in between represent greys between black and white.
 - Binary systems use digits '0' and '1', where '00000000' is black and '11111111' is white (8-bit image).
 - **Note:** The binary value of '11111111' is equal to the decimal value of '255'.
+- Converting binary values to decimal values: https://www.wikihow.com/Convert-from-Binary-to-Decimal
 
 <img src = 'Screen1.png' width='200'> <img src = 'Screen2.png' width='200'> <img src = 'Screen3.png' width='256'> <img src = 'Screen4.png' width='260'>
 
 **Image Source:** http://shutha.org/node/789
 
+## Artificial Neural Networks
+
+Please see the below: 
+
+https://github.com/MohitGoel92/Will-the-customer-leave-the-bank-
 
 
 **Additional Resource:** https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
