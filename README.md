@@ -40,9 +40,10 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 
 ## Artificial Neural Networks
 
-Please see the below: 
+Please see the following: https://github.com/MohitGoel92/Will-the-customer-leave-the-bank-
 
-https://github.com/MohitGoel92/Will-the-customer-leave-the-bank-
+## Using Artificial Neural Networks For Image Processing
 
+Please see the following: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
 
 **Additional Resource:** https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
