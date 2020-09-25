@@ -27,8 +27,11 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 
 ## What is an image? 
 
-- Images are stored within the computer as numbers only. 
-
+- Images are stored within the computer as numbers only.
+- '0' represents black and '255' represents white.
+- All numbers in between represent greys between black and white.
+- Binary systems use digits '0' and '1', where '00000000' is black and '11111111' is white (8-bit image).
+- **Note:** The binary value of '11111111' is equal to the decimal value of '255'.
 
 <img src = 'Screen1.png' width='200'> <img src = 'Screen2.png' width='200'> <img src = 'Screen3.png' width='256'> <img src = 'Screen4.png' width='260'>
 
