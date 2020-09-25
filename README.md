@@ -28,9 +28,7 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 - Images are stored within the computer as numbers only. 
 
 
-<img src = 'Screen1.png' width='200'>
-
-<img src = 'Screen2.png' width='200'>
+<img src = 'Screen1.png' width='200'> <img src = 'Screen2.png' width='200'>
 
 <img src = 'Screen3.png' width='200'>
 
