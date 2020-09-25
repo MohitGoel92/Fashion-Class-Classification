@@ -28,6 +28,15 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 - Images are stored within the computer as numbers only. 
 
 
+<img src = 'Screen1.png' width='700'>
+
+<img src = 'Screen2.png' width='700'>
+
+<img src = 'Screen3.png' width='700'>
+
+<img src = 'Screen4.png' width='700'>
+
+
 **Amazon Echo Look:** https://www.youtube.com/watch?v=9X_fP4pPWPw
 
 **Additional Resource:** https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
