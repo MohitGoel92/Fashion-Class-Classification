@@ -42,12 +42,27 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 
 Please see the following: https://github.com/MohitGoel92/Will-the-customer-leave-the-bank-
 
-## Using Artificial Neural Networks For Image Processing
+### Using Artificial Neural Networks For Image Processing
 
 Our objective here is to train the ANN to classify images (the input) by learning from the images, changing the weights accordingly and classifying them correctly (the output). However, we cannot treat images like the features of a dataset and simply input the rows of pixels into the ANN. This is because we need to preserve the spatial dependence between pixels. We must therefore perform a process before we feed our pixels directly to our network, this is called 'Convolution'. This is where the term 'Convolution Neural Network' comes from.
+
+The image below shows an overview of the Convolution Neural Network we will use.
 
 <img src = 'Screen5.png' width='800' height = '300'>
 
 **Image Source:** https://www.udemy.com/course/machine-learning-practical/learn/lecture/11789814#overview
+
+### Convolution Neural Network - Feature Detection
+
+- Convolutions use a kernel matrix to scan a given image and apply a filter to obtain a certain effect.
+- An image Kernel is a matrix used to apply effects such as blurring and sharpening.
+- Kernels are used in machine learning for 'Feature Extraction' to select the most important pixels of an image.
+- Convolution preserves the spatial relationship between pixels.
+
+For a more in depth explanation and live convolution see: https://setosa.io/ev/image-kernels/
+
+
+
+
 
 Please see the following: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
