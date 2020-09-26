@@ -79,7 +79,13 @@ The diagram below shows the sigmoid function:
 
 **Image Source:** http://ronny.rest/blog/post_2017_08_10_sigmoid/
 
+The diagram below shows the ReLU function. Using the ReLU function sets all negative numbers to zero. This eliminates the valleys of numbers within an image (negative, zero and positive numbers) and makes the features stand out. 
+
 <img src = 'Screen8.png' width='500' height = '300'>
+
+### Convolution Neural Network - Maxpooling/Flattening
+
+
 
 **Image Source:** https://en.wikipedia.org/wiki/Rectifier_(neural_networks)#/media/File:Rectifier_and_softplus_functions.svg
 
