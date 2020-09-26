@@ -52,6 +52,8 @@ The image below shows an overview of the Convolution Neural Network we will use.
 
 **Image Source:** https://www.udemy.com/course/machine-learning-practical/learn/lecture/11789814#overview
 
+Additional resource: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
+
 ### Convolution Neural Network - Feature Detection
 
 - Convolutions use a kernel matrix to scan a given image and apply a filter to obtain a certain effect.
@@ -87,6 +89,8 @@ The diagram below shows the ReLU function. Using the ReLU function sets all nega
 
 ### Convolution Neural Network - Maxpooling/Flattening
 
-<img src = 'Screen9.png' width='700' height = '300'>
+<img src = 'Screen9.png' width='900' height = '300'>
 
-Please see the following: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
+**Image Source:** https://www.udemy.com/course/machine-learning-practical/learn/lecture/11789818#overview
+
+
