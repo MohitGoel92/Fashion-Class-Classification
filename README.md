@@ -87,6 +87,6 @@ The diagram below shows the ReLU function. Using the ReLU function sets all nega
 
 ### Convolution Neural Network - Maxpooling/Flattening
 
-
+<img src = 'Screen9.png' width='700' height = '300'>
 
 Please see the following: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
