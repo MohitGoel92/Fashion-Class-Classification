@@ -77,5 +77,6 @@ The diagram below shows the sigmoid function:
 
 <img src = 'Screen7.png' width='700' height = '300'>
 
+**Image Source:** http://ronny.rest/blog/post_2017_08_10_sigmoid/
 
 Please see the following: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
