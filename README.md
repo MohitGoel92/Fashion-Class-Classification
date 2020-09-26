@@ -89,7 +89,7 @@ The diagram below shows the ReLU function. Using the ReLU function sets all nega
 
 ### Convolution Neural Network - Maxpooling/Flattening
 
-<img src = 'Screen9.png' width='900' height = '270'>
+<img src = 'Screen9.png' width='900' height = '250'>
 
 **Image Source:** https://www.udemy.com/course/machine-learning-practical/learn/lecture/11789818#overview
 
