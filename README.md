@@ -55,12 +55,17 @@ The image below shows an overview of the Convolution Neural Network we will use.
 ### Convolution Neural Network - Feature Detection
 
 - Convolutions use a kernel matrix to scan a given image and apply a filter to obtain a certain effect.
-- An image Kernel is a matrix used to apply effects such as blurring and sharpening.
+- An image Kernel is a matrix used to apply effects such as blurring (averaging the pixels) and sharpening.
 - Kernels are used in machine learning for 'Feature Extraction' to select the most important pixels of an image.
-- Convolution preserves the spatial relationship between pixels.
+- Convolution preserves the spatial relationship between pixels using a 'Feature Map.
 
 For a more in depth explanation and live convolution see: https://setosa.io/ev/image-kernels/
 
+The diagram below shows the input image, the filter (feature detector) and output image (feature map).
+
+<img src = 'Screen6.png' width='800' height = '300'>
+
+**Image Source:** https://www.researchgate.net/figure/Image-convolution-with-an-input-image-of-size-7-7-and-a-filter-kernel-of-size-3-3_fig1_318849314
 
 
 
