@@ -94,8 +94,8 @@ The diagram below shows the ReLU function. Using the ReLU function sets all nega
 - Pooling helps the model generalise by avoiding overfitting. If one of the pixel is shifted, the pooled feature map will still be the same. This is similar to how our minds work. If we see a type of bag, regardless of where certain features may be, for instance, the handle, we still recognise it as the handle. This is similar to the largest number being preserved. 
 - Max pooling works by retaining the maximum feature response within a given sample size in a feature map.
 
+The diagram below depicts the explanation above:
+
 <img src = 'Screen9.png' width='900' height = '250'>
 
 **Image Source:** https://www.udemy.com/course/machine-learning-practical/learn/lecture/11789818#overview
-
-
