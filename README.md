@@ -67,7 +67,15 @@ The diagram below shows the input image, the filter (feature detector) and outpu
 
 **Image Source:** https://www.researchgate.net/figure/Image-convolution-with-an-input-image-of-size-7-7-and-a-filter-kernel-of-size-3-3_fig1_318849314
 
+### Convolution Neural Network - ReLU (Rectified Linear Units)
 
+- ReLU layers are used to add non-linearity in the feature map.
+- It also enhances the sparsity or how scattered the feature map is.
+- The gradient of the ReLU does not vanish as we increase X compared to the sigmoid function.
+
+The diagram below shows the sigmoid function:
+
+<img src = 'Screen7.png' width='700' height = '300'>
 
 
 Please see the following: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
