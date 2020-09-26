@@ -63,7 +63,7 @@ For a more in depth explanation and live convolution see: https://setosa.io/ev/i
 
 The diagram below shows the input image, the filter (feature detector) and output image (feature map).
 
-<img src = 'Screen6.png' width='800' height = '300'>
+<img src = 'Screen6.png' width='700' height = '300'>
 
 **Image Source:** https://www.researchgate.net/figure/Image-convolution-with-an-input-image-of-size-7-7-and-a-filter-kernel-of-size-3-3_fig1_318849314
 
