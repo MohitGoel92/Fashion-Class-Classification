@@ -48,7 +48,7 @@ Our objective here is to train the ANN to classify images (the input) by learnin
 
 The image below shows an overview of the Convolution Neural Network we will use.
 
-<img src = 'Screen5.png' width='800' height = '300'>
+<img src = 'Screen51.png' width='800' height = '300'>
 
 **Image Source:** https://www.udemy.com/course/machine-learning-practical/learn/lecture/11789814#overview
 
