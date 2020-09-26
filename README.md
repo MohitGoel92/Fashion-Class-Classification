@@ -83,10 +83,10 @@ The diagram below shows the ReLU function. Using the ReLU function sets all nega
 
 <img src = 'Screen8.png' width='500' height = '300'>
 
+**Image Source:** https://en.wikipedia.org/wiki/Rectifier_(neural_networks)#/media/File:Rectifier_and_softplus_functions.svg
+
 ### Convolution Neural Network - Maxpooling/Flattening
 
 
-
-**Image Source:** https://en.wikipedia.org/wiki/Rectifier_(neural_networks)#/media/File:Rectifier_and_softplus_functions.svg
 
 Please see the following: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
