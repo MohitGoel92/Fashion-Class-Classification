@@ -75,11 +75,11 @@ The diagram below shows the input image, the filter (feature detector) and outpu
 
 The diagram below shows the sigmoid function:
 
-<img src = 'Screen7.png' width='700' height = '300'>
+<img src = 'Screen7.png' width='500' height = '300'>
 
 **Image Source:** http://ronny.rest/blog/post_2017_08_10_sigmoid/
 
-<img src = 'Screen8.png' width='700' height = '300'>
+<img src = 'Screen8.png' width='500' height = '300'>
 
 **Image Source:** https://en.wikipedia.org/wiki/Rectifier_(neural_networks)#/media/File:Rectifier_and_softplus_functions.svg
 
