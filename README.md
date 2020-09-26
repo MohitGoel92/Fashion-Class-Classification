@@ -44,6 +44,8 @@ Please see the following: https://github.com/MohitGoel92/Will-the-customer-leave
 
 ## Using Artificial Neural Networks For Image Processing
 
-Our objective here is to train the ANN to classify images (the input) by learning from the images, changing the weights accordingly and classifying them correctly (the output). However, we cannot treat images like the features of a dataset 
+Our objective here is to train the ANN to classify images (the input) by learning from the images, changing the weights accordingly and classifying them correctly (the output). However, we cannot treat images like the features of a dataset and simply input the rows of pixels into the ANN. This is because we need to preserve the spatial dependence between pixels. We must therefore perform a process before we feed our pixels directly to our network, this is called 'Convolution'. This is where the term 'Convolution Neural Network' comes from.
+
+<img src = 'Screen5.png' width='200'>
 
 Please see the following: https://github.com/MohitGoel92/Is-it-a-cat-or-a-dog
